@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="menu">Menu</string>
+    <string name="add_food">Add Food</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="necessary_ingredients">Necessary Ingredients</string>
+    <string name="preparation_order">Preparation Order</string>
+    <string name="save">Save</string>
+    <string name="_5kg_carrot">5kg carrot</string>
+    <string name="pilaw">Pilaw</string>
+</resources>
